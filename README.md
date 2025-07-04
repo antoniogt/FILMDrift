@@ -3,7 +3,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-**FILMDrift** brings the FILM philosophy to **streaming or chunked data**.  
+**FILMDrift** brings the FILM philosophy to **chunked data**.  
 It implements the Identical Partitions for Imbalance Problems (IPIP) (See https://arxiv.org/abs/2503.04370) ensemble for passive concept‑drift learning, together with utilities to monitor performance and to update models as new chunks arrive.
 
 The package have the following main functions:
