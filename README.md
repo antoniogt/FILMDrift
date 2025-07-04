@@ -35,6 +35,7 @@ You need the following R packages:
 - mltools
 - psych
 - parallel
+- FILM (https://github.com/antoniogt/FILM)
 
 ## Quick workflow
 Below is an end‑to‑end example.
