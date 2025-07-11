@@ -12,7 +12,7 @@ The package have the following main functions:
 * **`track_metrics()`** – build a cumulative metric table that grows with every processed observation.  
 * **`BAIC_CD()`** – compress that table into a single drift‑aware score
   (Balanced Adaptive Index of Concordance).  
-* **`update_ipip_cd()`** – inject a new chunk into an existing IPIP ensemble, retaining only the best sub‑models.
+* **`update_ipip_cd()`** – add a new chunk into an existing IPIP ensemble, retaining only the best sub‑models.
 
 ---
 
