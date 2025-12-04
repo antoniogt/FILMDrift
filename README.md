@@ -1,4 +1,4 @@
-# FILMDrift
+# FILMDrift (paper under review)
 
 <!-- badges: start -->
 <!-- badges: end -->
@@ -87,4 +87,4 @@ model_out$ensemble <- update_ipip_cd(
 - _update_ipip_cd()_ retrains ipip on an incoming chunk and then selects only the top ensemble performers, keeping model size bounded while adapting to new data.
 
 ## About
-FILMDrift was developed by Antonio Guillén-Teruel and the CALM research group (Universidad de Murcia, https://www.um.es/web/aike/calm) to bring the FILM methodology to non‑stationary chunk-based problems.
+FILMDrift was developed by Antonio Guillén-Teruel with supervision from Juan A. Botía and José t. Palma, within the CALM research group (Universidad de Murcia, https://www.um.es/web/aike/calm) to bring the FILM methodology to non‑stationary chunk-based problems.
